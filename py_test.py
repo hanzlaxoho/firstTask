@@ -1,0 +1,1 @@
+print('yeh hy mango zindagi!')
